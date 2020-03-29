@@ -7,3 +7,7 @@
 #
 layout: home
 ---
+
+Hola esto es una prueba.
+
+Me llamo Juan Fernández
