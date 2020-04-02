@@ -8,6 +8,21 @@
 layout: home
 ---
 
-Hola esto es una prueba.
 
-Me llamo Juan Fernández
+<img src="assets\juan.jpg" alt="Juan Fernández" style="float: left; margin-right: 20px;" />
+
+<p style="margin-left:180px;">
+Hello! My name is Juan, and my job is to develop artificial intelligence applications that understand the human language. Virtual assistants, search engines or machine translation systems are everyday examples of these applications.
+</p>
+
+<p style="margin-left:180px;">
+Artificial intelligence is not about pictures from robots or complex brain circuits. It is a path towards a better understanding of cognition and language as a mental faculty. To build truly smart applications, we need to grasp the complex nature of human beings that is mirrored by natural language.
+</p>
+
+<p style="margin-left:180px;">
+I am currently working on Bixby, a Samsung's project to build a smart assistant that enables users to communicate with any device using their voice. I like to develop open-source code, too.
+</p>
+
+<p style="margin-left:180px;">
+In this site you will find NLP resources I have been working on these years, specially in the healthcare domain. I hope you find them useful.
+</p>
