@@ -1,18 +1,32 @@
 ---
 layout: page
-title: CV
-permalink: /about/
+title: Curriculum Vitae
+permalink: /CV/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+**Samsung Electronics**
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Developing Bixby in Spanish, a smart assistant to improve user interaction with all Samsung devices, based on natural language understanding (NLU)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+**Taiger**
 
+Development of algorithms for information retrieval from unstructured text, based on Natural Language Processing (NLP).
 
-[jekyll-organization]: https://github.com/jekyll
+**Séntisis Analytics**
+
+Design and development of core methodologies for opinion, sentiment and social media analysis.
+Teamwork with data scientists and management of data annotators.
+
+**Daedalus**
+
+Management of language databases for language technology applications.
+
+**University of Granada**
+
+Research in text analytics applications of language databases
+
+**Spanish Academy of Language**
+
+Dictionary of Latin American Spanish (Real Academia Española)
+Dictionary of synonyms and antonyms (Gredos)
+Cambridge English-Spanish (SM and Cambridge U. Press)

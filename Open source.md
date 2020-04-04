@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open source
+title: Resources
 permalink: /about/
 ---
 
