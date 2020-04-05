@@ -14,11 +14,11 @@ Hello! My name is Juan, and my job is to develop artificial intelligence applica
 
 Artificial intelligence is not about pictures from robots or complex brain circuits. It is a path towards a better understanding of cognition and language as a mental faculty. To build truly smart applications, we need to grasp the complex nature of human beings that is mirrored by natural language.
 
-I am currently working on Bixby, a Samsung's project to build a smart assistant that enables users to communicate with any device using their voice. I like to develop open-source code, too.
+I am currently working on Bixby, a Samsung's project to build a smart assistant that enables users to communicate with any device using their voice.
 
-In this site you will find NLP resources I have been working on these years, specially in the healthcare domain. I hope you find them useful.
+I like to develop open-source code, too. In this site you will find language processing resources I have been working on these years, specially in the healthcare domain. I hope you find them useful.
 
-&nbsp;
+<br />
 
 ![Mail](/assets/mail.png) &nbsp; <a href="mailto:&#106;&#110;&#102;&#101;&#114;&#102;&#101;&#114;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#106;&#110;&#102;&#101;&#114;&#102;&#101;&#114;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a>
 
