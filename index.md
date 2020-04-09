@@ -8,7 +8,7 @@
 layout: home
 ---
 
-<img src = 'assets/juan-photo.png' style="float:left;width:5.8rem;margin-right:0.7rem"/>
+<img src = 'assets/juan-photo.png' style="float:left;width:5.5rem;margin-right:0.7rem"/>
 
 Hello! My name is Juan, and my job is to develop artificial intelligence applications that understand the human language. Virtual assistants, search engines or machine translation systems are everyday examples of these applications.
 
