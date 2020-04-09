@@ -20,7 +20,7 @@ dl, dd, ol, ul, figure {
  */
 @font-face {
   font-family: "raleway";
-  src: url("assets/fonts/Raleway-Medium.ttf");
+  src: url("fonts/Raleway-Medium.ttf");
 }
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
