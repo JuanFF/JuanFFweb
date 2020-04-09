@@ -20,6 +20,6 @@ I like to develop open-source code, too. In this site you will find language pro
 
 <br />
 
-![Mail](/assets/mail.png) &nbsp; <a href="mailto:&#106;&#110;&#102;&#101;&#114;&#102;&#101;&#114;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#106;&#110;&#102;&#101;&#114;&#102;&#101;&#114;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a>
+![Mail](assets/mail.png) &nbsp; <a href="mailto:&#106;&#110;&#102;&#101;&#114;&#102;&#101;&#114;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#106;&#110;&#102;&#101;&#114;&#102;&#101;&#114;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a>
 
-![LinkedIn](/assets/linkedin.png) &nbsp; <a href="https://www.linkedin.com/in/juanff/">juanff</a>
+![LinkedIn](assets/linkedin.png) &nbsp; <a href="https://www.linkedin.com/in/juanff/">juanff</a>
