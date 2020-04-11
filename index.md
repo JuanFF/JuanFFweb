@@ -18,8 +18,11 @@ I am currently working on Bixby, a Samsung's project to build a smart assistant 
 
 I like to develop open-source code, too. In this site you will find language processing resources I have been working on these years, specially in the healthcare domain. I hope you find them useful.
 
-<br />
+I am currently living in Madrid, Spain.
 
+<br />
 ![Mail](assets/mail.png) &nbsp; <a href="mailto:&#106;&#110;&#102;&#101;&#114;&#102;&#101;&#114;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#106;&#110;&#102;&#101;&#114;&#102;&#101;&#114;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a>
 
-![LinkedIn](assets/linkedin.png) &nbsp; <a href="https://www.linkedin.com/in/juanff/">juanff</a>
+![LinkedIn](assets/linkedin.png) &nbsp; <a href="https://www.linkedin.com/in/juanff/">juanff - LinkedIn</a>
+
+![LinkedIn](assets/github.png) &nbsp; <a href="https://github.com/JuanFF/">juanff - GitHub</a>
