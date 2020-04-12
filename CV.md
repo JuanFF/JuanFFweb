@@ -105,11 +105,11 @@ img {
 </center>
 <br />
 
-<ul style="list-style-type:disc;margin-left:58px;">
-  <li>Use of <b>Python</b> language and libraries for Natural Language Processing.</li>
-  <li>Initiated in <b>JavaScript</b>.</li>
-  <li>Able to develop NLP autonomously.</li>
-</ul>
-<br />
-<br />
-<br /><br /><br />
+<p style="margin-left:38px;">
+	Use of <b>Python</b> language and libraries for Natural Language Processing.<br />
+	Initiated in <b>JavaScript</b>.<br />
+	Able to develop NLP autonomously.<br />
+	<br/><br/>
+</p>
+
+<br/><br/>
