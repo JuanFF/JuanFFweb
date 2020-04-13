@@ -15,7 +15,7 @@ img {
 
 <br />
 <center>
-<h2><img src = 'assets/pins.svg' style="width:2.3rem;margin:0.4rem"/>Experience</h2>
+<h2><img src = 'assets/pins.svg' style="width:1.8rem;margin:0.4rem"/>Experience</h2>
 </center>
 <br />
 
@@ -76,7 +76,7 @@ img {
 
 <br />
 <center>
-<h2><img src = 'assets/libro.jpg' style="width:2.3rem;margin:0.4rem"/>Education</h2>
+<h2><img src = 'assets/libro.jpg' style="width:1.8rem;margin:0.4rem"/>Education</h2>
 </center>
 <br />
 
@@ -101,7 +101,7 @@ img {
 
 <br />
 <center>
-<h2><img src = 'assets/engranaje.png' style="width:2.3rem;margin:0.4rem"/>Skills</h2>
+<h2><img src = 'assets/engranaje.png' style="width:1.8rem;margin:0.4rem"/>Skills</h2>
 </center>
 <br />
 
