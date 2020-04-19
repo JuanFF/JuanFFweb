@@ -14,9 +14,7 @@ img {
 [comment]: Experience
 
 <br />
-<center>
-<h2><img src = 'assets/pins.svg' style="width:1.8rem;margin:0.4rem"/>Experience</h2>
-</center>
+<h2><img src = 'assets/pins.svg' style="width:1.6rem;margin:0.4rem"/>Experience</h2>
 <br />
 
 
@@ -74,10 +72,9 @@ img {
 
 [comment]: Education
 
+
 <br />
-<center>
-<h2><img src = 'assets/libro.jpg' style="width:1.8rem;margin:0.4rem"/>Education</h2>
-</center>
+<h2><img src = 'assets/libro.jpg' style="width:1.6rem;margin:0.4rem"/>Education</h2>
 <br />
 
 
@@ -94,16 +91,13 @@ img {
 	Specialization in Scientific and Technical Translation.
 	<br/><br/>
 </p>
-
+x
 
 
 [comment]: Skills
 
 <br />
-<center>
-<h2><img src = 'assets/engranaje.png' style="width:1.8rem;margin:0.4rem"/>Skills</h2>
-</center>
-<br />
+<h2><img src = 'assets/engranaje.png' style="width:1.6rem;margin:0.4rem"/>Skills</h2>
 
 <p style="margin-left:38px;">
 	Use of <b>Python</b> language and libraries for Natural Language Processing.<br />
