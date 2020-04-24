@@ -91,7 +91,6 @@ img {
 	Specialization in Scientific and Technical Translation.
 	<br/><br/>
 </p>
-x
 
 
 [comment]: Skills
