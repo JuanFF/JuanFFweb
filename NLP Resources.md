@@ -25,20 +25,16 @@ title: NLP Resources
 <p><img class = 'mainIcon' src = 'assets/algorithms.png' style="width:1.8rem;margin:0.3rem"/>NLP algorithms</p>
 <ul style="list-style-type:disc;margin-left:65px;">
 <li><a href="#Disease-treatment-NER">Disease-treatment NER</a></li>
-<li><a href="#Health-worker-classifier">Health worker classifier</a></li>
+<li><a href="#Healthcare-Twitter-User-Classifier">Healthcare Twitter User Classifier</a></li>
 </ul>
 <p><img class = 'mainIcon' src = 'assets/label.png' style="width:1.8rem;margin:0.3rem"/>Labeled datasets</p>
 <ul style="list-style-type:disc;margin-left:65px;">
-<li><a href="#algorithms">Disease-treatment Twitter dataset</a></li>
-</ul>
-<p><img class = 'mainIcon' src = 'assets/bulbo.png' style="width:1.8rem;margin:0.3rem"/>Data insights</p>
-<ul style="list-style-type:disc;margin-left:65px;">
-<li><a href="#algorithms">Lifescope stats</a></li>
+<li><a href="#algorithms">Healthcare Twitter User Classifier</a></li>
 </ul>
 <br />
 
 - - -
-<p><img class = 'mainIcon' src = 'assets/algorithms.png'/><b>Disease-treatment NER</b> [April 2020]</p>
+<p id="Disease-treatment-NER"><img class = 'mainIcon' src = 'assets/algorithms.png'/><b>Disease-treatment NER</b> [April 2020]</p>
 
 <p class = 'commonP'>
 
@@ -60,8 +56,59 @@ title: NLP Resources
 	<code>
 		{&quot;treatement&quot;: &quot;&lt;empty&gt;&quot;, &quot;disease&quot;: &quot;COVID-19&quot;}
 	</code><br /><br />
-	The algorithm precision score is 0.89 (0.83 for treatment entity recognition, and 0.96 for disease entities). Performance varies according to text source or style. I used Twitter (healthcare-related tweets) and PubMed (research paper titles) as text sources for training and testing.<br />
+	The algorithm precision score is 0.89. Performance varies according to text source or style. I used Twitter (healthcare-related tweets) and PubMed (research paper titles) as text sources for training and testing.<br />
 </p>
 
-<img class = 'fileIcon' src = 'assets/github.png'/><a href="https://github.com/JuanFF/disease-treatment-NER" target="_blank">repository</a><br />
-<img class = 'fileIcon' src = 'assets/github.png'/><a href="https://github.com/JuanFF/datasets/tree/master/performance-tests" target="_blank">test dataset</a>
+<img class = 'fileIcon' src = 'assets/descargar.png'/><a href="https://github.com/JuanFF/disease-treatment-NER" target="_blank">repository</a><br />
+<img class = 'fileIcon' src = 'assets/descargar.png'/><a href="https://github.com/JuanFF/datasets/tree/master/performance-tests" target="_blank">test dataset</a>
+
+<br /><br />
+- - -
+
+<p id="Healthcare-Twitter-User-Classifier"><img class = 'mainIcon' src = 'assets/algorithms.png'/><b>Healthcare Twitter User Classifier</b> [April 2020]</p>
+
+<p class = 'commonP'>
+
+	This is a text classifier that categorizes user names and descriptions from Twitter users related to healthcare. As Twitter users provide information on themselves in their user names and descriptions, the classifier reads from this data (name, description) to return a descriptive label for each type of user profile.<br /><br />
+
+	User profile classification may be useful when managing loads of health information on Twitter.<br /><br />
+
+	In the following example, the classifier will return the label <code>Institution</code> to identify the profile from the World Health Organization.<br /><br />
+
+</p>
+
+<center><img src="assets/resources/who.png" width="550"/></center><br /><br />
+
+<p class = 'commonP'>
+
+	The following will return <code>Publication</code> as the label to describe this medicine journal.<br /><br />
+
+</p>
+
+<center><img src="assets/resources/journal.png" width="550"/></center><br /><br />
+
+<p class= 'commonP'>
+	
+	In all cases, the classifier must receive the Twitter user name and description as input data. The tag set of healthcare-related profiles is the following:<br />
+
+<ul style="margin-left: 80px;">
+	<li>Academia</li>
+	<li>Publishing source</li>
+	<li>Doctor</li>
+	<li>Professional</li>
+	<li>Medical business</li>
+	<li>Interested in healthcare</li>
+	<li>News source</li>
+	<li>Healthcare initiative</li>
+	<li>Association</li>
+	<li>Generic</li>
+</ul>
+
+<p class= 'commonP'>
+
+	The classifier returns <code>&lt;empty&gt;</code> when the input profile doesn't belong to any of these categories.<br /><br />
+
+	Find the code and instructions in the following link:<br />
+
+</p>
+<img class = 'fileIcon' src = 'assets/descargar.png'/><a href="https://github.com/JuanFF/healthcare-twitter-user-classifier" target="_blank">repository</a><br />
