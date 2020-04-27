@@ -60,7 +60,7 @@ title: NLP Resources
 </p>
 
 <img class = 'fileIcon' src = 'assets/descargar.png'/><a href="https://github.com/JuanFF/disease-treatment-NER" target="_blank">repository</a><br />
-<img class = 'fileIcon' src = 'assets/descargar.png'/><a href="https://github.com/JuanFF/datasets/tree/master/performance-tests" target="_blank">test dataset</a>
+<img class = 'fileIcon' src = 'assets/descargar.png'/><a href="https://github.com/JuanFF/datasets/tree/master/performance-tests/disease-treatment%20NER" target="_blank">test dataset</a>
 
 <br /><br />
 - - -
@@ -108,7 +108,10 @@ title: NLP Resources
 
 	The classifier returns <code>&lt;empty&gt;</code> when the input profile doesn't belong to any of these categories.<br /><br />
 
-	Find the code and instructions in the following link:<br />
+	The precision score is 0.86<br /><br />
+
+	Find the code, instructions and test data in the following links:<br />
 
 </p>
 <img class = 'fileIcon' src = 'assets/descargar.png'/><a href="https://github.com/JuanFF/healthcare-twitter-user-classifier" target="_blank">repository</a><br />
+<img class = 'fileIcon' src = 'assets/descargar.png'/><a href="https://github.com/JuanFF/datasets/tree/master/performance-tests/healthcare%20twitter%20user%20classifier" target="_blank">test dataset</a><br />

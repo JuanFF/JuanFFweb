@@ -20,7 +20,7 @@ img {
 
 
 
-<img src = 'assets/companies/samsung.png' style="float:left;width:1.5rem;margin-right:0.3rem;"/>
+<img src = 'assets/companies/samsung.png' style="float:left;width:1.3rem;margin-right:0.3rem;"/>
 <p style="margin-left:38px;">
 	<b>Samsung Electronics</b> - hired by Randstad Technologies <i>(Feb. 2018 - current)</i><br /><br />
 	Developer of core skills from Bixby, a smart assistant to enable voice interaction with Samsung devices such as mobiles, smartwatches or televisions. I am working in the area of Natural Language Understanding (NLU). 
@@ -30,7 +30,7 @@ img {
 </p>
 
 
-<img src = 'assets/companies/taiger.png' style="float:left;width:1.5rem;margin-right:0.3rem;"/>
+<img src = 'assets/companies/taiger.png' style="float:left;width:1.3rem;margin-right:0.3rem;"/>
 <p style="margin-left:38px;">
 	<b>Taiger Spain</b> <i>(Nov. 2016 - Feb. 2018)</i><br /><br />
 	Natural Language Processing specialist. Development of algorithms for information retrieval from unstructured text. Legal document automation for banks.
@@ -38,7 +38,7 @@ img {
 </p>
 
 
-<img src = 'assets/companies/sentisis.png' style="float:left;width:1.5rem;margin-right:0.3rem;"/>
+<img src = 'assets/companies/sentisis.png' style="float:left;width:1.3rem;margin-right:0.3rem;"/>
 <p style="margin-left:38px;">
 	<b>Séntisis Analytics</b> <i>(May 2013 - Oct. 2016)</i><br /><br />
 	Head of Computational Linguistics. Design and development of core methodologies for opinion and sentiment analysis in social media.
@@ -46,7 +46,7 @@ img {
 </p>
 
 
-<img src = 'assets/companies/daedalus.jpeg' style="float:left;width:1.5rem;margin-right:0.3rem;"/>
+<img src = 'assets/companies/daedalus.jpeg' style="float:left;width:1.3rem;margin-right:0.3rem;"/>
 <p style="margin-left:38px;">
 	<b>Daedalus</b> <i>(Oct. 2011 - Feb. 2013)</i><br /><br />
 	Computational linguist. Management of lexical databases and rule-based grammars for machine proofreading.
@@ -54,14 +54,14 @@ img {
 </p>
 
 
-<img src = 'assets/companies/ugr.png' style="float:left;width:1.5rem;margin-right:0.3rem;"/>
+<img src = 'assets/companies/ugr.png' style="float:left;width:1.3rem;margin-right:0.3rem;"/>
 <p style="margin-left:38px;">
 	<b>University of Granada</b> <i>(Jan. 2010 - Jan 2012)</i><br /><br />
 	PhD research in ontologies and specialized language: <a href="http://ecolexicon.ugr.es/en/index.htm" target="_blank">EcoLexicon project</a>
 	<br/><br/>
 </p>
 
-<img src = 'assets/companies/rae.jpeg' style="float:left;width:1.5rem;margin-right:0.3rem;"/>
+<img src = 'assets/companies/rae.jpeg' style="float:left;width:1.3rem;margin-right:0.3rem;"/>
 <p style="margin-left:38px;">
 	<b>Spanish Academy of Language (Real Academia Española)</b> <i>(Apr. 2007 - Nov. 2009)</i><br /><br />
 	Linguist for dictionary projects: <a href="http://lema.rae.es/damer/" target="_blank">Dictionary of Latin American Spanish</a>
@@ -78,14 +78,14 @@ img {
 <br />
 
 
-<img src = 'assets/companies/ugr.png' style="float:left;width:1.5rem;margin-right:0.3rem;"/>
+<img src = 'assets/companies/ugr.png' style="float:left;width:1.3rem;margin-right:0.3rem;"/>
 <p style="margin-left:38px;">
 	<b>PhD at the University of Granada</b> <i>(Jan. 2010 - Jan 2012)</i><br /><br />
 	Specialization in Computational Linguistics (ontologies and semantic annotation). <br />PhD Thesis: <i>Representation of terminological knowledge spread on the web. Study of the climate change domain</i>. Text in Spanish: <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwiRgejS7NHoAhWGxoUKHZcMD0sQFjAAegQIAxAB&url=https%3A%2F%2Fhera.ugr.es%2Ftesisugr%2F20745539.pdf&usg=AOvVaw3jbJ-I166fkwMiQRaWv0i9" target="_blank">PDF link</a>
 	<br/><br/>
 </p>
 
-<img src = 'assets/companies/ugr.png' style="float:left;width:1.5rem;margin-right:0.3rem;"/>
+<img src = 'assets/companies/ugr.png' style="float:left;width:1.3rem;margin-right:0.3rem;"/>
 <p style="margin-left:38px;">
 	<b>BA in Translation and Interpreting</b> <i>(Sep. 2001 - Jun. 2006)</i><br /><br />
 	Specialization in Scientific and Technical Translation.
