@@ -133,7 +133,7 @@
   color: #099; }
 
 html {
-  font-size: 18px; }
+  font-size: 16px; }
 
 /**
  * Reset some basic elements
@@ -151,7 +151,7 @@ dl, dd, ol, ul, figure {
   font-family: "raleway";
   src: url("fonts/Raleway-Medium.ttf"); }
 body {
-  font: 400 18px/1.5 raleway, -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
+  font: 400 16px/1.5 raleway, -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
   color: #111;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
@@ -199,7 +199,7 @@ figure > img {
   display: block; }
 
 figcaption {
-  font-size: 15.75px; }
+  font-size: 14px; }
 
 /**
  * Lists
@@ -348,7 +348,7 @@ table {
   border-top: 5px solid #424242;
   border-bottom: 1px solid #e8e8e8;
   min-height: 55.95px;
-  line-height: 60.75px;
+  line-height: 54px;
   position: relative; }
 
 .site-title {
@@ -499,7 +499,7 @@ table {
     margin-bottom: 30px; }
 
 .post-meta {
-  font-size: 15.75px;
+  font-size: 14px;
   color: #828282; }
 
 .post-link {
