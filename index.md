@@ -8,15 +8,15 @@
 layout: home
 ---
 
-<img src = 'assets/juan-photo.png' style="float:left;width:5.5rem;margin-right:0.7rem"/>
+<img src = 'assets/juan-photo.png' style="float:left;width:5.8rem;margin-right:0.8rem"/>
 
-Hello! My name is Juan, and my job is to develop artificial intelligence applications that understand the human language. Virtual assistants, search engines or machine translation systems are everyday examples of these applications.
+Hello! My name is Juan, and my job is to develop artificial intelligence applications that understand the human language. This task is known as Natural Language Processing (NLP). Virtual assistants, search engines or machine translation systems are everyday examples of these applications. 
 
 Artificial intelligence is not about pictures from robots or complex brain circuits. It is a path towards a better understanding of cognition and language as a mental faculty. To build truly smart applications, we need to grasp the complex nature of human beings that is mirrored by natural language.
 
 I am currently working on Bixby, a Samsung's project to build a smart assistant that enables users to communicate with any device using their voice.
 
-I like to develop open-source code, too. In this site you will find language processing resources I have been working on these years, specially in the healthcare domain.
+I like to develop open-source code, too. In this site you will find NLP resources I have been working on these years, specially in the healthcare domain.
 
 I am currently living in Madrid, Spain.
 
