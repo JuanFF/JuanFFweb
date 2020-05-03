@@ -123,15 +123,14 @@ title: NLP Resources
 
 
 <p><img class = 'mainIcon' src = 'assets/algorithms.png' style="width:1.8rem;margin:0.3rem"/><b>NLP algorithms</b></p>
-<ul style="list-style-type:disc;margin-left:65px;">
+<ul style="list-style-type:disc;margin-left:55px;">
 <li><a href="#Disease-treatment-NER">Disease-treatment NER</a></li>
 <li><a href="#Healthcare-Twitter-User-Classifier">Healthcare Twitter User Classifier</a></li>
 </ul>
 <p><img class = 'mainIcon' src = 'assets/label.png' style="width:1.8rem;margin:0.3rem"/><b>Labeled datasets</b></p>
-<ul style="list-style-type:disc;margin-left:65px;">
+<ul style="list-style-type:disc;margin-left:55px;">
 <li><a href="#disease-treatment-corpus">disease-treatment corpus</a></li>
-<li><a href="#algorithms">healthcare twitter profiles</a></li>
-<li><a href="#algorithms">performance tests</a></li>
+<li><a href="#corpus-of-health-twitter-accounts">corpus of health twitter accounts</a></li>
 </ul>
 <br />
 
@@ -317,6 +316,10 @@ function showSlides(n) {
 
 <hr/>
 
+
+<!----------------- Corpus disease-treatment ----------------->
+
+
 <p id="disease-treatment-corpus"><img class = 'mainIcon' src = 'assets/label.png'/><b>Corpus disease-treatment</b> [April 2020]</p>
 
 <p class= 'commonP'>
@@ -348,4 +351,50 @@ function showSlides(n) {
 	All texts are publicly available on Twitter, PubMed and Clinical Trials. This corpus data is not intended for medical purposes, but for training or evaluating machine learning models.<br /><br /> 
 </p>
 
-<img class = 'fileIcon' src = 'assets/descargar.png'/><a href="https://github.com/JuanFF/datasets/tree/master/disease-treatment%20corpus" target="_blank">JSON file</a><br />
+<img class = 'fileIcon' src = 'assets/descargar.png'/><a href="https://github.com/JuanFF/datasets/tree/master/disease-treatment%20corpus" target="_blank">JSON file</a><br /><br/>
+
+<hr/>
+
+<!----------------- Corpus of health twitter acounts ----------------->
+
+<p id="corpus-of-health-twitter-accounts"><img class = 'mainIcon' src = 'assets/label.png'/><b>Corpus of health twitter accounts</b> [April 2020]</p>
+
+<p class = 'commonP'>
+
+	The following corpus consists of 104698 short descriptions from health Twitter accounts. Each text is a short bio or description where the account owner introduces himself.
+
+</p>
+
+<pre class="jsonCodeBlock">
+  { <span class="jsonKey">&quot;description&quot;</span><span class="jsonValue">: &quot;Scientist, cardiologist, geneticist, circadian biologist, runner, mom&quot;,</span>
+    <span class="jsonKey">&quot;profile&quot;</span><span class="jsonValue">: &quot;Doctor&quot;</span> }
+  { <span class="jsonKey">&quot;description&quot;</span><span class="jsonValue">: &quot;Cell Biologist at Medical Research Institute, Alex University&quot;,</span>
+    <span class="jsonKey">&quot;profile&quot;</span><span class="jsonValue">: &quot;Academia&quot;</span> }
+  { <span class="jsonKey">&quot;description&quot;</span><span class="jsonValue">: &quot;Promote genetic diagnostic solutions for early cancer detection for better health&quot;,</span>
+    <span class="jsonKey">&quot;profile&quot;</span><span class="jsonValue">: &quot;Med Business&quot;</span> }
+  { <span class="jsonKey">&quot;description&quot;</span><span class="jsonValue">: &quot;Bacterial Infections and antimicrobial therapies group. Institute for Bioengineering of Catalonia (IBEC)&quot;,</span>
+    <span class="jsonKey">&quot;profile&quot;</span><span class="jsonValue">: &quot;Institution&quot;</span> }
+</pre>
+
+<br/>
+
+<p class = 'commonP'>
+
+  Corpus texts have been automatically labeled by the <a href="#Healthcare-Twitter-User-Classifier">Twitter user classifier</a>, with a precision score of 0.86<br/><br/>
+
+  This is the distribution of each profile tag in corpus:
+
+  <center><img src = 'assets/resources/freq_profiles.png' style="width:85%"/></center>
+
+</p>
+
+<p class = 'commonP'>
+
+  User names were ommited. You can use this data to train machine learning models based on Twitter's valuable health information.<br/><br/>
+
+</p>
+
+<img class = 'fileIcon' src = 'assets/descargar.png'/><a href="https://github.com/JuanFF/datasets/tree/master/healthcare%20twitter%20profiles" target="_blank">JSON file</a>
+
+<br /><br /><br />
+
