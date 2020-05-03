@@ -396,5 +396,4 @@ function showSlides(n) {
 
 <img class = 'fileIcon' src = 'assets/descargar.png'/><a href="https://github.com/JuanFF/datasets/tree/master/healthcare%20twitter%20profiles" target="_blank">JSON file</a>
 
-<br /><br /><br />
-
+<br /><br /><br /><br />
