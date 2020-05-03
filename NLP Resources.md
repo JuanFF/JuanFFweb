@@ -366,13 +366,13 @@ function showSlides(n) {
 </p>
 
 <pre class="jsonCodeBlock">
-  { <span class="jsonKey">&quot;description&quot;</span><span class="jsonValue">: &quot;Scientist, cardiologist, geneticist, circadian biologist, runner, mom&quot;,</span>
+  { <span class="jsonKey">&quot;description&quot;</span><span class="jsonValue">: &quot;Scientist, cardiologist, geneticist&quot;,</span>
     <span class="jsonKey">&quot;profile&quot;</span><span class="jsonValue">: &quot;Doctor&quot;</span> }
-  { <span class="jsonKey">&quot;description&quot;</span><span class="jsonValue">: &quot;Cell Biologist at Medical Research Institute, Alex University&quot;,</span>
+  { <span class="jsonKey">&quot;description&quot;</span><span class="jsonValue">: &quot;Cell Biologist at Medical Research Institute&quot;,</span>
     <span class="jsonKey">&quot;profile&quot;</span><span class="jsonValue">: &quot;Academia&quot;</span> }
-  { <span class="jsonKey">&quot;description&quot;</span><span class="jsonValue">: &quot;Promote genetic diagnostic solutions for early cancer detection for better health&quot;,</span>
+  { <span class="jsonKey">&quot;description&quot;</span><span class="jsonValue">: &quot;Promote genetic diagnostic solutions for cancer&quot;,</span>
     <span class="jsonKey">&quot;profile&quot;</span><span class="jsonValue">: &quot;Med Business&quot;</span> }
-  { <span class="jsonKey">&quot;description&quot;</span><span class="jsonValue">: &quot;Bacterial Infections and antimicrobial therapies group. Institute for Bioengineering of Catalonia (IBEC)&quot;,</span>
+  { <span class="jsonKey">&quot;description&quot;</span><span class="jsonValue">: &quot;Institute for Bioengineering of Catalonia&quot;,</span>
     <span class="jsonKey">&quot;profile&quot;</span><span class="jsonValue">: &quot;Institution&quot;</span> }
 </pre>
 
