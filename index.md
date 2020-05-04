@@ -16,7 +16,7 @@ Artificial intelligence is not about pictures from robots or complex brain circu
 
 I am currently working on Bixby, a Samsung's project to build a smart assistant that enables users to communicate with any device using their voice.
 
-I like to develop open-source code, too. In this site you will find NLP resources I have been working on these years, specially in the healthcare domain.
+I like to develop open-source code, too. In this site, you will find NLP resources I have been working on these years, specially in the healthcare domain.
 
 I am currently living in Madrid, Spain.
 
