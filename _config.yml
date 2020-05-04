@@ -3,7 +3,7 @@ author:
   name: Juan Fernández F.
   email: jnferfer@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-baseurl: '/JuanFFweb' # the subpath of your site, e.g. /blog
+# baseurl: '/JuanFFweb' # the subpath of your site, e.g. /blog
   
 
 show_excerpts: false # set to true to show excerpts on the homepage
