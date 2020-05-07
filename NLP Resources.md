@@ -351,7 +351,7 @@ function showSlides(n) {
 	All texts are publicly available on Twitter, PubMed and Clinical Trials. This corpus data is not intended for medical purposes, but for training or evaluating machine learning models.<br /><br /> 
 </p>
 
-<img class = 'fileIcon' src = 'assets/descargar.png'/><a href="https://github.com/JuanFF/datasets/tree/master/disease-treatment%20corpus" target="_blank">JSON file</a><br /><br/>
+<img class = 'fileIcon' src = 'assets/descargar.png'/><a href="https://github.com/JuanFF/datasets/tree/master/corpus%20disease-treatment" target="_blank">JSON file</a><br /><br/>
 
 <hr/>
 
@@ -394,6 +394,6 @@ function showSlides(n) {
 
 </p>
 
-<img class = 'fileIcon' src = 'assets/descargar.png'/><a href="https://github.com/JuanFF/datasets/tree/master/healthcare%20twitter%20profiles" target="_blank">JSON file</a>
+<img class = 'fileIcon' src = 'assets/descargar.png'/><a href="https://github.com/JuanFF/datasets/tree/master/corpus%20of%20health%20twitter%20accounts" target="_blank">JSON file</a>
 
 <br /><br /><br /><br />
