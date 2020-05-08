@@ -8,6 +8,17 @@
 layout: home
 ---
 
+<style>
+
+.company-icon {
+	float:left;
+	width:1.17rem;
+	margin-right:8px;
+	vertical-align:text-bottom;
+}
+
+</style>
+
 <img src = 'assets/juan-photo.png' style="float:left;width:5.8rem;margin-right:0.9rem"/>
 
 Hello! My name is Juan, and my job is to develop artificial intelligence applications that understand the human language. This task is known as Natural Language Processing (NLP). Virtual assistants, search engines or machine translation systems are everyday examples of these applications. 
@@ -20,14 +31,8 @@ I like to develop open-source code, too. In this site, you will find NLP resourc
 
 I am currently living in Madrid, Spain.
 
-<p style="line-height: 80%;">
-
-<br/>
-
-<img src = 'assets/mail.png' style="width: 2.8%; margin-right: 0.5rem;"/> <a href="mailto:&#106;&#110;&#102;&#101;&#114;&#102;&#101;&#114;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#106;&#110;&#102;&#101;&#114;&#102;&#101;&#114;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a> <br/><br/>
-
-<img src = 'assets/linkedin.png' style="width: 2.8%; margin-right: 0.5rem;"/> <a href="https://www.linkedin.com/in/juanff/">juanff - LinkedIn</a> <br/><br/>
-
-<img src = 'assets/github.png' style="width: 2.8%; margin-right: 0.5rem;"/> <a href="https://github.com/JuanFF/">juanff - GitHub</a> <br/><br/>
-
+<p style="line-height: 100%;">
+<br/><img class = 'company-icon' src = 'assets/mail.png'/> <a href="mailto:&#106;&#110;&#102;&#101;&#114;&#102;&#101;&#114;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#106;&#110;&#102;&#101;&#114;&#102;&#101;&#114;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a><br/><br/>
+<img class = 'company-icon' src = 'assets/linkedin.png'/> <a href="https://www.linkedin.com/in/juanff/">juanff - LinkedIn</a><br/><br/>
+<img class = 'company-icon' src = 'assets/github.png'/> <a href="https://github.com/JuanFF/">juanff - GitHub</a><br/><br/>
 </p>
