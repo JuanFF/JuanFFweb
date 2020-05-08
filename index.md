@@ -12,7 +12,7 @@ layout: home
 
 .company-icon {
 	float:left;
-	width:1.17rem;
+	width:1.22rem;
 	margin-right:8px;
 	vertical-align:text-bottom;
 }
