@@ -115,8 +115,14 @@ title: NLP Resources
 
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
+  .commonP {
+        margin-left: 0;
+    }
 }
 
+@media only screen and (max-width: 1024px) {
+    
+}
 </style>
 
 
