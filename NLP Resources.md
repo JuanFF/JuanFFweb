@@ -7,8 +7,8 @@ title: NLP Resources
 
 .mainIcon {
 	vertical-align:text-bottom;
-	width:1.8rem;
-	margin-right: 0.7rem;
+	width:1.7rem;
+	margin-right: 0.8rem;
 }
 
 .fileIcon {
@@ -43,7 +43,7 @@ title: NLP Resources
 .mySlides {display: none}
 
 .slideshow-container {
-  max-width: 450px;
+  max-width: 430px;
   position: relative;
   margin: auto;
 }
@@ -69,15 +69,15 @@ title: NLP Resources
 }
 
 .text {
-  font-size: 15px;
-  padding: 0 0.5rem 0.6 0.5rem;
+  font-size: 13px;
+  padding: 0 0.5rem 0.3 0.5rem;
   background-color: lightslategrey;
   position: absolute;
   bottom: -26px;
   right: 180px;
   width: 20%;
   text-align: center;
-  border-radius: 40px;
+  border-radius: 30px;
   color: white;
 }
 
@@ -131,16 +131,16 @@ title: NLP Resources
 
 
 
-<p><img class = 'mainIcon' src = 'assets/algorithms.png' style="width:1.8rem;margin:0.3rem"/><b>NLP algorithms</b></p>
-<ul style="list-style-type:disc;margin-left:55px;">
-<li><a href="#Disease-treatment-NER">Disease-treatment NER</a></li>
-<li><a href="#Healthcare-Twitter-User-Classifier">Healthcare Twitter User Classifier</a></li>
-</ul>
-<p><img class = 'mainIcon' src = 'assets/label.png' style="width:1.8rem;margin:0.3rem"/><b>Labeled datasets</b></p>
-<ul style="list-style-type:disc;margin-left:55px;">
-<li><a href="#disease-treatment-corpus">disease-treatment corpus</a></li>
-<li><a href="#corpus-of-health-twitter-accounts">corpus of health twitter accounts</a></li>
-</ul>
+<p><img class = 'mainIcon' style = "margin-left:0.33rem; margin-right: 0.53rem;" src = 'assets/algorithms.png'/><b>NLP algorithms</b></p>
+<p class = 'commonP'>
+<a href="#Disease-treatment-NER">Disease-treatment NER</a><br />
+<a href="#Healthcare-Twitter-User-Classifier">Healthcare Twitter User Classifier</a><br />
+</p>
+<p><img class = 'mainIcon' style = "margin-left:0.33rem; margin-right: 0.53rem;" src = 'assets/label.png'/><b>Labeled datasets</b></p>
+<p class = 'commonP'>
+<a href="#disease-treatment-corpus">Corpus disease-treatment</a><br />
+<a href="#corpus-of-health-twitter-accounts">Corpus of health twitter accounts</a>
+</p>
 <br />
 
 <hr/>
