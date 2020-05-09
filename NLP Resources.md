@@ -137,7 +137,7 @@ title: NLP Resources
     margin-left:0px;
   }
   .commonP_2 {
-   margin-left:2px;
+   margin-left:5px;
   }
   .fileIcon {
     vertical-align:text-bottom;
