@@ -146,7 +146,7 @@ title: NLP Resources
     margin-left: 0px;
   }
   .itemList {
-    margin-left: 3px; 
+    margin-left: 13px; 
   }
   .jsonCodeBlock {
     margin-right: 0px;
