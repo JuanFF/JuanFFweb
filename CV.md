@@ -26,9 +26,16 @@ title: Curriculum Vitae
 
 @media only screen and (max-width: 1024px) {
   .prev, .next,.text {font-size: 11px}
-  .commonP {
-    margin-left:0px;
-  }
+	.commonP {
+		margin-left:0px;
+	}
+	.company-icon {
+		float:left;
+		width:1.3rem;
+		margin-left:0px;
+		margin-right:8px;
+		vertical-align:text-bottom;
+	}
 }
 
 </style>

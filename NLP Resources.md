@@ -37,6 +37,13 @@ title: NLP Resources
 	margin-left: 41px;
 }
 
+.itemList {
+  margin-left: 75px; 
+}
+
+.postImg {
+  width:85%;
+}
 
 /* image slides */
 
@@ -124,6 +131,18 @@ title: NLP Resources
   .prev, .next,.text {font-size: 11px}
   .commonP {
     margin-left:0px;
+  }
+  .fileIcon {
+    vertical-align:text-bottom;
+    width:1.2rem;
+    margin-right:7px;
+  }
+  .itemList {
+    margin-left: 0px; 
+  }
+  .jsonCodeBlock {
+    margin-right: 0px;
+    margin-left: 0px;
   }
 }
 </style>
@@ -297,7 +316,7 @@ function showSlides(n) {
 
 </p>
 
-<ul style="margin-left: 80px;">
+<ul class = 'itemList'>
 	<li>Academia</li>
 	<li>Publishing source</li>
 	<li>Doctor</li>
@@ -352,7 +371,7 @@ function showSlides(n) {
 	This is the frequency of each source in corpus (314620 messages):<br />
 </p>
 
-<center><img src = 'assets/resources/freq_ner_corpus.png' style="width:60%"/></center>
+<center><img src = 'assets/resources/freq_ner_corpus.png' class = 'postImg' style = 'width:65%;'/></center>
 
 <p class= 'commonP'>
 	This corpus has information from 2018 and 2019. I have been working on it for training and testing NLP algorithms.<br /><br /> 
@@ -393,7 +412,7 @@ function showSlides(n) {
 
   This is the distribution of each profile tag in corpus:
 
-  <center><img src = 'assets/resources/freq_profiles.png' style="width:85%"/></center>
+  <center><img src = 'assets/resources/freq_profiles.png' class = 'postImg'/></center>
 
 </p>
 
