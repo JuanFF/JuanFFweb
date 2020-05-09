@@ -136,6 +136,7 @@ title: NLP Resources
     vertical-align:text-bottom;
     width:1.2rem;
     margin-right:7px;
+    margin-left: 0px;
   }
   .itemList {
     margin-left: 0px; 
