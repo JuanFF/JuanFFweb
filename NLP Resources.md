@@ -431,7 +431,7 @@ function showSlides(n) {
 
 <p class = 'commonP'>
 
-  User names were ommited. You can use this data to train machine learning models based on Twitter's valuable health information sources.<br/><br/>
+  User names were omitted. You can use this data to train machine learning models based on Twitter's valuable health information sources.<br/><br/>
 
 </p>
 
