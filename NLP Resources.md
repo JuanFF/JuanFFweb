@@ -22,6 +22,10 @@ title: NLP Resources
 	margin-left:41px;
 }
 
+.commonP_2 {
+	margin-left:41px;
+}
+
 .jsonKey {
 	color:#007700;
 	font-size: 11pt;
@@ -132,6 +136,9 @@ title: NLP Resources
   .commonP {
     margin-left:0px;
   }
+  .commonP_2 {
+   margin-left:2px;
+  }
   .fileIcon {
     vertical-align:text-bottom;
     width:1.2rem;
@@ -139,7 +146,7 @@ title: NLP Resources
     margin-left: 0px;
   }
   .itemList {
-    margin-left: 0px; 
+    margin-left: 3px; 
   }
   .jsonCodeBlock {
     margin-right: 0px;
@@ -152,12 +159,12 @@ title: NLP Resources
 
 
 <p><img class = 'mainIcon' style = "margin-left:0.33rem; margin-right: 0.53rem;" src = 'assets/algorithms.png'/><b>NLP algorithms</b></p>
-<p class = 'commonP'>
+<p class = 'commonP_2'>
 <a href="#Disease-treatment-NER">Disease-treatment NER</a><br />
 <a href="#Healthcare-Twitter-User-Classifier">Healthcare Twitter User Classifier</a><br />
 </p>
 <p><img class = 'mainIcon' style = "margin-left:0.33rem; margin-right: 0.53rem;" src = 'assets/label.png'/><b>Labeled datasets</b></p>
-<p class = 'commonP'>
+<p class = 'commonP_2'>
 <a href="#disease-treatment-corpus">Corpus disease-treatment</a><br />
 <a href="#corpus-of-health-twitter-accounts">Corpus of health twitter accounts</a>
 </p>
