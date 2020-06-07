@@ -2,7 +2,7 @@ title: Juan Fernández F.
 author:
   name: Juan Fernández F.
   email: jnferfer@gmail.com
-description: > # this means to ignore newlines until "show_excerpts:"
+description: Natural language processing, artificial intelligence
 # baseurl: '/JuanFFweb' # the subpath of your site, e.g. /blog
   
 
@@ -51,6 +51,7 @@ minima:
 header_pages:
  - NLP Resources.md
  - CV.md
+ - Apps.md
 
 
 # Build settings
