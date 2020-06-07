@@ -158,7 +158,7 @@ title: Apps
 
 
 
-<p align="right" style="margin-right:3rem"><a href="AppsES.html">[español]</a></p>
+<p align="right" style="margin-right:1rem"><a href="AppsES.html">[español]</a></p>
 
 <h2><img src = 'assets/enfermero.png' class = 'section-icon'/>COVID-19 Good news </h2>
 

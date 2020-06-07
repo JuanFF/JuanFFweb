@@ -158,7 +158,7 @@ title: Apps
 
 <br/>
 
-<h2><img src = 'assets/enfermero.png' class = 'section-icon'/>Buenas noticias COVID-19</h2>
+<h2><img src = 'assets/enfermero.png' class = 'section-icon'/>Buenas noticias COVID</h2>
 
 <p class = 'commonP'>
 
