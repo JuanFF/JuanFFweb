@@ -146,7 +146,7 @@ title: Apps
 	.commonP {
 		margin-left:0px;
 	}
-	.company-icon {
+	.section-icon {
 		float:left;
 		width:1.3rem;
 		margin-left:0px;
