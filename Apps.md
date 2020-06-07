@@ -24,8 +24,8 @@ title: Apps
 /* spinner style */
 .spinner-eff {
   position: relative;
-  width: 50px;
-  height: 50px;
+  width: 40px;
+  height: 40px;
 }
 .spinner-eff:before, .spinner-eff:after {
   content: "";
@@ -146,6 +146,12 @@ title: Apps
 	.commonP {
 		margin-left:0px;
 	}
+  .section-icon {
+	width:2.15rem;
+	margin-right:0.5rem;
+  margin-left:0rem;
+	vertical-align:text-bottom;
+  }
 }
 
 </style>
