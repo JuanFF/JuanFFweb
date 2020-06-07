@@ -29,6 +29,8 @@ I am currently working on Bixby, a Samsung's project to build a smart assistant 
 
 I like to develop open-source code, too. In this site, you will find NLP resources I have been working on these years, especially in the healthcare domain.
 
+My latest project is a <a href="Apps.html">bot</a> that recovers headlines from Twitter with positive stories in the COVID-19 pandemic.
+
 I live in Madrid, Spain.
 
 <p style="line-height: 100%;">
