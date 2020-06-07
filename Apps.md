@@ -148,7 +148,7 @@ title: Apps
 	}
 	.section-icon {
 		float:left;
-		width:1.3rem;
+		width:1.5rem;
 		margin-left:0px;
 		margin-right:8px;
 		vertical-align:text-bottom;
