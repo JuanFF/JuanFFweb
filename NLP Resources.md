@@ -1,6 +1,6 @@
 ---
 layout: home
-title: NLP Resources
+title: NLP
 ---
 
 <style>
@@ -162,7 +162,7 @@ title: NLP Resources
 
 
 
-
+<br />
 <p><img class = 'mainIcon' style = "margin-left:0.33rem; margin-right: 0.53rem;" src = 'assets/algorithms.png'/><b>NLP algorithms</b></p>
 <p class = 'commonP_2'>
 <a href="#Disease-treatment-NER">Disease-treatment NER</a><br />

@@ -50,8 +50,8 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - NLP Resources.md
- - CV.md
  - Apps.md
+ - CV.md
 
 
 # Build settings
