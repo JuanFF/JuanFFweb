@@ -168,6 +168,8 @@ title: Apps
 	<br/><br/>
 	The bot performs a natural language analysis on both the content and the sender, to retweet only selected sources, such as Twitter's verified accounts or users related to healthcare. I have set it to post 1 message every 15 minutes.
 	<br/><br/>
+	Accuracy score is 0.89. Code is available <a href="https://github.com/JuanFF/fight_covid_classifier" target="_blank">here</a>.
+	<br/><br/>
 	<a style="text-align:left" href="https://twitter.com/venceralcovid?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @venceralcovid</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> <br/>
 </p>
 

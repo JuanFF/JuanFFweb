@@ -166,6 +166,8 @@ title: Apps
   <br/><br/>
   El bot realiza un análisis no solo del contenido, sino también del emisor, para hacer retweet solo de fuentes escogidas: las cuentas verificadas por Twitter, o las que él identifica como usuarios que tienen relación con la sanidad. Está configurado para publicar un mensaje cada 15 minutos.
 	<br/><br/>
+  Tiene una precisión de 0.89. Código disponible en <a href="https://github.com/JuanFF/fight_covid_classifier" target="_blank">repositorio</a>.
+  <br/><br/>
 	<a style="text-align:left" href="https://twitter.com/venceralcovid?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @venceralcovid</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> <br/>
 </p>
 
