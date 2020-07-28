@@ -36,3 +36,5 @@ I live in Madrid, Spain.
 <a href="mailto:&#106;&#110;&#102;&#101;&#114;&#102;&#101;&#114;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;"><img title="E-mail" style="width: 1.1rem;" src = 'assets/index/correo-electronico.png'/></a> &nbsp; &nbsp;  <a target="_blank" href="https://github.com/JuanFF"><img title="Github" style="width: 1.1rem;" src = 'assets/index/imagen-de-github.png'/></a> &nbsp; &nbsp; <a target="_blank" href="https://www.linkedin.com/in/juanff/"><img title="LinkedIn" style="width: 1.1rem;" src = 'assets/index/linkedin.png'/></a>
 
 </center>
+
+<br /><br />
