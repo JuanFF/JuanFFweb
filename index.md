@@ -12,7 +12,7 @@ layout: home
 
 .company-icon {
 	float:left;
-	width:1.22rem;
+	width:3.22rem;
 	margin-right:9px;
 	vertical-align:text-bottom;
 }
@@ -31,8 +31,8 @@ My latest project is a <a href="Apps.html">bot</a> that retrieves headlines from
 
 I live in Madrid, Spain.
 
-<p style="line-height: 100%;">
-<br/><img class = 'company-icon' src = 'assets/index/mail.png'/> <a href="mailto:&#106;&#110;&#102;&#101;&#114;&#102;&#101;&#114;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#106;&#110;&#102;&#101;&#114;&#102;&#101;&#114;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a><br/><br/>
-<img class = 'company-icon' src = 'assets/index/github.png'/> <a href="https://github.com/JuanFF/">juanff - GitHub</a><br/><br/>
-<img class = 'company-icon' src = 'assets/index/linkedin.png'/> <a href="https://www.linkedin.com/in/juanff/">juanff - LinkedIn</a><br/><br/>
-</p>
+<center>
+
+<a href="mailto:&#106;&#110;&#102;&#101;&#114;&#102;&#101;&#114;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;"><img title="E-mail" style="width: 1.1rem;" src = 'assets/index/correo-electronico.png'/></a> &nbsp; &nbsp;  <a target="_blank" href="https://github.com/JuanFF"><img title="Github" style="width: 1.1rem;" src = 'assets/index/imagen-de-github.png'/></a> &nbsp; &nbsp; <a target="_blank" href="https://www.linkedin.com/in/juanff/"><img title="LinkedIn" style="width: 1.1rem;" src = 'assets/index/linkedin.png'/></a>
+
+</center>
