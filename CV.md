@@ -45,7 +45,12 @@ title: Curriculum Vitae
 <h2><img src = 'assets/mapa-2.png' class = 'section-icon'/>Experience</h2>
 <br />
 
-
+<img class = 'company-icon' src = 'assets/logo.png'/>
+<p class = 'commonP'>
+	<b>NLP consultant</b> <i>(Ago. 2020 - current)</i><br /><br />
+	Development of Natural Language Processing applications for software products and companies.
+	<br/><br/>
+</p>
 
 
 <img class = 'company-icon' src = 'assets/companies/samsung.png'/>
