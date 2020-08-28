@@ -166,7 +166,7 @@ title: Apps
 
 	Follow this Twitter account to receive good news on Coronavirus in Spanish. I have programmed a bot that analyzes a live stream of Twitter headlines, and retrieves only those with positive stories in the COVID-19 pandemic.
 	<br/><br/>
-	The bot performs a natural language analysis on both the content and the sender, to retweet only selected sources, such as Twitter's verified accounts or users related to healthcare. I have set it to post 1 message every 15 minutes.
+	The bot performs a natural language analysis on both the content and the sender, to retweet only selected sources, such as Twitter's verified accounts or users related to healthcare.
 	<br/><br/>
 	Accuracy score is 0.89. Code is available <a href="https://github.com/JuanFF/fight_covid_classifier" target="_blank">here</a>.
 	<br/><br/>

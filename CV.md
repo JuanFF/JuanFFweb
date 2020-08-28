@@ -55,7 +55,7 @@ title: Curriculum Vitae
 
 <img class = 'company-icon' src = 'assets/companies/samsung.png'/>
 <p class = 'commonP'>
-	<b>Samsung Electronics</b> - hired by Randstad Technologies <i>(Feb. 2018 - current)</i><br /><br />
+	<b>Samsung Electronics</b> - hired by Randstad Technologies <i>(Feb. 2018 - Jul. 2020)</i><br /><br />
 	Developer of core skills from Bixby, a smart assistant to enable voice interaction with Samsung devices. I am working in the area of Natural Language Understanding (NLU). More about Bixby <a href="https://bixbydevelopers.com" target="_blank">here</a>.
 	<br/><br/>
 </p>
