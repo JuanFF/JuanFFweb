@@ -47,7 +47,7 @@ title: Curriculum Vitae
 
 <img class = 'company-icon' src = 'assets/logo.png'/>
 <p class = 'commonP'>
-	<b>NLP consultant</b> <i>(Ago. 2020 - current)</i><br /><br />
+	<b>NLP consultant</b> <i>(Aug. 2020 - current)</i><br /><br />
 	Development of Natural Language Processing applications for software products and companies.
 	<br/><br/>
 </p>
