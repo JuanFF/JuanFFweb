@@ -45,18 +45,18 @@ title: Curriculum Vitae
 <h2><img src = 'assets/mapa-2.png' class = 'section-icon'/>Experience</h2>
 <br />
 
-<img class = 'company-icon' src = 'assets/logo.png'/>
+<img class = 'company-icon' src = 'assets/companies/predictiva.png'/>
 <p class = 'commonP'>
-	<b>NLP consultant</b> <i>(Aug. 2020 - current)</i><br /><br />
-	Development of Natural Language Processing applications for software products and companies.
+	<b>Predictiva</b> <i>(Nov. 2020 - current)</i><br /><br />
+	NLP Data Scientist.
 	<br/><br/>
 </p>
 
 
 <img class = 'company-icon' src = 'assets/companies/samsung.png'/>
 <p class = 'commonP'>
-	<b>Samsung Electronics</b> - hired by Randstad Technologies <i>(Feb. 2018 - Jul. 2020)</i><br /><br />
-	Developer of core skills from Bixby, a smart assistant to enable voice interaction with Samsung devices. I am working in the area of Natural Language Understanding (NLU). More about Bixby <a href="https://bixbydevelopers.com" target="_blank">here</a>.
+	<b>Samsung Electronics</b> - hired by Randstad Technologies <i>(Feb. 2018 - Ago. 2020)</i><br /><br />
+	Developer of core skills from Bixby, a smart assistant to enable voice interaction with Samsung devices. I worked in the area of Natural Language Understanding (NLU). More about Bixby <a href="https://bixbydevelopers.com" target="_blank">here</a>.
 	<br/><br/>
 </p>
 

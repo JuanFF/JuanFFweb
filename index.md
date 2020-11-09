@@ -33,7 +33,7 @@ In this site, you will find some <b>NLP and machine learning resources</b> I hav
 
 My latest project is a <a href="Apps.html">bot</a> that retrieves headlines from Twitter with positive stories in the COVID-19 pandemic.
 
-I currently live in Madrid, Spain.
+I currently live in Málaga, Spain.
 
 
 <br /><br />
