@@ -164,7 +164,7 @@ title: Apps
 
 <p class = 'commonP'>
 
-	In May 2020, I programmed a bot that analyzed a live stream of Twitter headlines, and retrieved only those with positive stories in the COVID-19 pandemic. I stoped the bot some time ago, hoping that vaccines will be the real good news on coronavirus. I will keep here the original Twitter timeline for anyone interested in how good news changed over time.
+	In May 2020, I programmed a bot that analyzed a live stream of Twitter headlines, and retrieved only those with positive stories in the COVID-19 pandemic. I stopped the bot some time ago, hoping that vaccines will be the real good news on coronavirus. I will keep here the original Twitter timeline for anyone interested in how good news changed over time.
 	<br/><br/>
 	The bot performed a natural language analysis on both the content and the sender, to retweet only selected sources, such as Twitter's verified accounts or users related to healthcare.
 	<br/><br/>
