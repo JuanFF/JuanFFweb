@@ -47,7 +47,7 @@ title: Curriculum Vitae
 
 <img class = 'company-icon' src = 'assets/companies/predictiva.png'/>
 <p class = 'commonP'>
-	<b>Predictiva</b> <i>(Nov. 2020 - current)</i><br /><br />
+	<b>Predictiva</b> <i>(Sep. 2020 - current)</i><br /><br />
 	NLP Data Scientist.
 	<br/><br/>
 </p>
