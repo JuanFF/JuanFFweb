@@ -162,9 +162,9 @@ title: Apps
 
 <p class = 'commonP'>
 
-	Sigue esta cuenta de Twitter para recibir solamente buenas noticias del coronavirus, en español. He programado un bot que analiza, en tiempo real, titulares en Twitter y recupera las noticias en positivo sobre la pandemia.
+	En mayo del 2020, programé un bot que analizaba, en tiempo real, titulares en Twitter para recuperar las noticias en positivo sobre la pandemia. Hace tiempo que desconecté el bot con la esperanza de que todas las  noticias sobre la pandemia tuvieran que ver, casi exclusivamente, con las vacunas. No obstante, dejo aquí el timeline original para cualquiera que tenga interés en saber cómo evolucionaron las buenas noticias en los primeros seis meses de la pandemia.
   <br/><br/>
-  El bot realiza un análisis no solo del contenido, sino también del emisor, para hacer retweet solo de fuentes escogidas: las cuentas verificadas por Twitter, o las que él identifica como usuarios que tienen relación con la sanidad. Está configurado para publicar un mensaje cada 15 minutos.
+  El bot analizaba no solo el contenido, sino también el emisor, para hacer retweet solo de fuentes escogidas: las cuentas verificadas por Twitter, o las que él identificaba como usuarios que tienen relación con la sanidad.
 	<br/><br/>
   Tiene una precisión de 0.89. Código disponible en <a href="https://github.com/JuanFF/fight_covid_classifier" target="_blank">repositorio</a>.
   <br/><br/>
